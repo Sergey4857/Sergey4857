@@ -9,7 +9,13 @@
 
 </div>
 
-Welcome to my GitHub page! Here you will find my projects, technology stack and much more.
+<picture>
+    <source srcset="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" media="(prefers-color-scheme: dark)" />
+    <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="300" />
+    </picture>
+
+                                                                                
+<h3>Welcome to my GitHub page! Here you will find my projects, technology stack and much more.</h3>
 
 - 🔭 I'm currently immersing myself in the world of Full Stack development.
 - 🌱 I'm currently improving my skills in front-end and back-end development.
