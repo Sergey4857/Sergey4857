@@ -1,6 +1,4 @@
-<picture>
-    <source srcset="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" media="(prefers-color-scheme: dark)" />
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJkODA5ZDViNjc0OTYyZWVjM2E0NjE2Zjc5Y2QyMmMwNDg5ZDM5MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l4JyQqyt9S1WTiE6c/giphy-downsized.gif" width="200" /></picture> 
+
 <div id="header"">
     <h1>
     Hello, I'm Sergey!
