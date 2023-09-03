@@ -27,6 +27,7 @@
   <img src="./icons/HTML.svg" title="HTML5" alt="HTML5"  height="40"/>
   <img src="./icons/JavaScript.svg"  title="JS" alt="JS"  height="40"/>
   <img src="./icons/React-Dark.svg"  title="React" alt="React"  height="40"/>
+   <img src="./icons/icons8-redux.svg"  title="React" alt="React"  height="40"/>
   <img src="./icons/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code"  height="40"/>
   <img src="./icons/Github-Dark.svg" title="Github"  alt="Github"  height="40" />
   <img src="./icons/Git.svg" title="Git"  alt="Git"  height="40" />
