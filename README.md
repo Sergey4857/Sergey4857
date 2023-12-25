@@ -26,6 +26,8 @@
   <img src="./icons/CSS.svg"  title="CSS3" alt="CSS3"  height="40"/>
   <img src="./icons/HTML.svg" title="HTML5" alt="HTML5"  height="40"/>
   <img src="./icons/JavaScript.svg"  title="JS" alt="JS"  height="40"/>
+  <img src="./icons/php.svg"  title="JS" alt="JS"  height="40"/>
+    <img src="./icons/wordpress.svg"  title="JS" alt="JS"  height="40"/>
   <img src="./icons/React-Dark.svg"  title="React" alt="React"  height="40"/>
    <img src="/icons8-redux.svg"  title="React" alt="React"  height="40"/>
   <img src="./icons/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code"  height="40"/>
