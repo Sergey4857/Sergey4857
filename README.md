@@ -1,5 +1,4 @@
-
-<div id="header"">
+<div id="header">
     <h1>
     Hello, I'm Sergey!
     <img
@@ -10,7 +9,6 @@
 
 </div>
 
-                                                                            
 <h3>Welcome to my GitHub page! Here you will find my projects, technology stack and much more.</h3>
 
 - 🔭 I'm currently immersing myself in the world of Full Stack development.
@@ -26,7 +24,10 @@
   <img src="./icons/CSS.svg"  title="CSS3" alt="CSS3"  height="40"/>
   <img src="./icons/HTML.svg" title="HTML5" alt="HTML5"  height="40"/>
   <img src="./icons/JavaScript.svg"  title="JS" alt="JS"  height="40"/>
+  <img src="./icons/php.svg"  title="PHP" alt="PHP"  height="40"/>
+    <img src="./icons/wordpress.svg"  title="wordpress" alt="wordpress"  height="40"/>
   <img src="./icons/React-Dark.svg"  title="React" alt="React"  height="40"/>
+   <img src="/icons8-redux.svg"  title="React" alt="React"  height="40"/>
   <img src="./icons/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code"  height="40"/>
   <img src="./icons/Github-Dark.svg" title="Github"  alt="Github"  height="40" />
   <img src="./icons/Git.svg" title="Git"  alt="Git"  height="40" />
@@ -36,12 +37,8 @@
 
 </div>
 
-
 ---
-
-
 
 <p align="center">
  <img width="600" src="icons/github-snake.svg" alt="snake"/>
 </p>
-
